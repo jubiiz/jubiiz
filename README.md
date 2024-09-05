@@ -6,4 +6,4 @@
 
 🚀 I love to learn about low-level and embedded tech! I spent 2 years on the [McGill Rocket Team](https://github.com/McGillRocketTeam) developing code for their flight computer, including one year as a software lead! There's no better feeling than writing better high-level (AI, ML, data) code by being comfortable with what happens under the hood. 🏎️
 
-💬 If you like something that I do or you want to ask me about anything, please reach out to me via Linkedin! I'd love to chat!
+💬 If you like something that I do or you want to ask me about anything, please reach out to me via LinkedIn! I'd love to chat!
